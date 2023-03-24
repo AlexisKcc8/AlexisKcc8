@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**AlexisKcc8/AlexisKcc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Portada Github Alexis Chim](https://user-images.githubusercontent.com/75916617/227391143-5a5f2984-36a1-430c-99d4-5a1a3208a69d.png)
 
-Here are some ideas to get you started:
+### About me 🙋
+#### <em>Computer systems engineer graduated 👨‍🎓 from the <a href="[https://hogent.be](https://www.itescam.edu.mx/portal/)">Calkiní Higher Technological Institute 🏫 in the State of Campeche</a> with a profile as a frontend web developer 😊</br>
+</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I consider myself a self-taught person🙌, committed and responsible. Focused on the creation of clear 💻codes and the ability to meet the objectives🎯 and the needs of the client.😊</p>
+
+```javascript
+const alexisChim = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap", "Flexbox", "CSS Grid layout", "Sass"]
+      }
+   },
+   currentOccupation: ["graduate, open to job opportunities"],
+   challenge: "I'm working to work with backend technologies",
+};
